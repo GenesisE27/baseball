@@ -1,4 +1,5 @@
-/_site/
+Now cache the data chunk. Add #| cache: true as the first line inside the hr_by_season chunk. Render. /_site/
 /.quarto/
 /*_files/
 **/*.quarto_ipynb
+/*_cache/
