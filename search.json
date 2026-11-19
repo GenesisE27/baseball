@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baseball",
+    "section": "",
+    "text": "Baseball Through the Data\nThis site uses the Lahman database to explore Major League Baseball history through its data. Comparing home runs per team-game, rather than raw totals, puts shortened seasons in context and makes it easier to follow the changing home-run trend across eras.\nBarry Bonds leads the career list with 762 home runs. Visit the Home runs and Sluggers pages in the navbar to explore the seasonal trend, career leaders, and Bonds’ home runs by season."
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "Warning: Removed 1 row containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n\n\n\n\n\n\n# A tibble: 4 × 4\n  yearID total_home_runs total_team_games home_runs_per_game\n   &lt;int&gt;           &lt;int&gt;            &lt;int&gt;              &lt;dbl&gt;\n1   1981            1781             2788               0.64\n2   1994            3306             3200               1.03\n3   2019            6776             4858               1.39\n4   2020            2304             1796               1.28"
+  }
+]
